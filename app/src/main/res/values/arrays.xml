@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fruit_long">
+        <item>Apple</item>
+        <item>Apricot</item>
+        <item>Banana</item>
+        <item>Peach</item>
+        <item>Cherry</item>
+        <item>KIWI</item>
+        <item>Mango</item>
+        <item>Orange</item>
+        <item>Strawberry</item>
+        <item>Watermelon</item>
+    </string-array>
+    <string-array name="main_list">
+        <item>Single column cards</item>
+        <item>Multi column cards</item>
+        <item>Multi Sized column</item>
+        <item>View Pager screen</item>
+        <item>Colored cards</item>
+        <item>Pivot middle Ordered tree map cards</item>
+        <item>Pivot size Ordered tree map cards</item>
+        <item>Pivot biggest Ordered tree map cards</item>
+    </string-array>
+
+</resources>
