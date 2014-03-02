@@ -15,7 +15,7 @@ import com.cards.adapter.CardAdapter;
  */
 public class MultiSizedColumnActivity extends CardActivity implements OnCardClickListener {
 
-	private static final int[] FRUITS = { R.drawable.apple, R.drawable.apple, R.drawable.apple,
+	private static final int[] FRUITS = { R.drawable.apple, R.drawable.apple_large, R.drawable.apple_large,
 			R.drawable.apricot, R.drawable.banana, R.drawable.cherry };
 
 	@Override
