@@ -1,6 +1,6 @@
 Cards
 -------
-An android library used to create cards like Google, You can cards with various colours in your applications
+An android library used to create cards like Google, We can create cards with various colours in your applications
 
 **Developed By**
 
