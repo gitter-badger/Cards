@@ -1,5 +1,6 @@
 Cards
 -------
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/chetugopireddy/Cards?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 An android library used to create cards like Google, We can create cards with various colours in your applications
 
 **Developed By**
